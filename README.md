@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/sanjai-magilan/sanjai-magilan/main/banner.png" width="100%" />
 
 <h1 align="center">Java Developer & ECE Undergraduate</h1>
 
