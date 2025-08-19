@@ -16,9 +16,8 @@
 ---
 
 ### 🚧 Currently Working On  
-| Technology | Badge |
-|------------|---------------------------------------------------------------|
-| Java       | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) |
+
+  | Java       | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) |
 | DSA        | ![DSA](https://img.shields.io/badge/Data%20Structures-%23117ACA.svg?style=flat&logoColor=white) |
 | IoT        | ![IoT](https://img.shields.io/badge/IoT-%23007ACC.svg?style=flat&logo=raspberrypi&logoColor=white) |
 
