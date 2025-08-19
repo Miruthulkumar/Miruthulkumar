@@ -9,7 +9,7 @@
 
 ### ⚡ About Me
 - 👨‍💻 2nd year ECE student passionate about software development  
-- 🧱 Currently building projects using **Java & Data Structures**  
+- 🧱 Currently learning **Java & Data Structures**  
 - 🤖 Exploring **IoT & Embedded Systems** for real-world problem solving  
 - 💡 Enjoy learning new tech and turning ideas into practical solutions  
 - 🌱 Trying to bridge the gap between **electronics** and **software**  
