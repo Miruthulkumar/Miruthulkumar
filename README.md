@@ -3,8 +3,7 @@
 
 <!-- Typing intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Miruthul+Kumar;Java+Developer;ECE+Undergraduate;IoT+Enthusiast" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=E.C.E+Undergraduate;Aspiring+Software+Engineer;IoT+Enthusiast;Driven+by+Curiosity+and+Growth" /></div>
 
 <!-- Developer illustration -->
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/programmer.svg" width="260"/>
