@@ -7,7 +7,7 @@
 </div>
 
 <!-- Developer illustration -->
-<img align="right" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="260"/>
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/programmer.svg" width="260"/>
 
 <br/>
 
@@ -32,6 +32,7 @@
 ### 📚 Currently Learning
 <p>
   <img src="https://img.shields.io/badge/Core%20Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -51,16 +52,8 @@
   <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-9370DB?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miruthulkumar&show_icons=true&count_private=true&theme=default&hide_title=true" height="180px"/>
-</div>
-
-<br/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miruthulkumar&theme=purplish&bg_color=8a2be20D&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false)
