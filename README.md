@@ -1,6 +1,11 @@
 <!-- Header Banner with Overlay Text -->
-<img src="assets/banner_image.png" width="100%" />
-<!-- Typing intro -->
+<!-- Header Banner with Overlay Text -->
+<div style="position: relative; text-align: center;">
+  <img src="assets/banner_abstract.png" width="100%" />
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #8A2BE2; font-family: 'Fira Code', monospace;">
+    Aspiring Software Engineer<br/>IoT Enthusiast
+  </h1>
+</div><!-- Typing intro -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=E.C.E+Undergraduate;Aspiring+Software+Engineer;IoT+Enthusiast;Driven+by+Curiosity+and+Growth" /></div>
 
