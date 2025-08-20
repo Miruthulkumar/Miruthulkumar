@@ -1,3 +1,6 @@
+<!-- Custom Abstract Banner -->
+<img src="assets/banner_abstract.png" width="100%" />
+
 <!-- Typing intro -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=E.C.E+Undergraduate;Aspiring+Software+Engineer;IoT+Enthusiast;Driven+by+Curiosity+and+Growth" /></div>
