@@ -3,7 +3,6 @@
 <div style="position: relative; text-align: center;">
   <img src="assets/banner_abstract.png" width="100%" />
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #8A2BE2; font-family: 'Fira Code', monospace;">
-    Aspiring Software Engineer<br/>IoT Enthusiast
   </h1>
 </div><!-- Typing intro -->
 <div align="center">
