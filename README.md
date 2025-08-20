@@ -1,5 +1,5 @@
 <!-- Custom Abstract Banner -->
-<img src="assets/banner_abstract.png" width="100%" />
+<img src="assets/banner_abstract.png" width="50%" />
 
 <!-- Typing intro -->
 <div align="center">
