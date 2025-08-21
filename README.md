@@ -1,8 +1,5 @@
 <!-- Custom Abstract Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=header"/>
-
----
-
 <img src="assets/banner_abstract.png" width="100%" />
 
 <!-- Typing intro -->
