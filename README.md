@@ -12,6 +12,8 @@
 <!-- Developer illustration -->
 <br/>
 
+---
+
 ### ⚡ About Me
 - 👨‍💻 Prefinal year ECE student passionate about software development  
 - 🧱 Currently learning **Java & Data Structures**  
