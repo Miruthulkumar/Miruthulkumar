@@ -36,6 +36,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+<h3 align="left">🚀 Next to Learn:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
+  <img src="https://img.shields.io/badge/Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
 ### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
