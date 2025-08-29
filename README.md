@@ -14,7 +14,7 @@
 - 🧱 Currently learning **Java & Data Structures**  
 - 🤖 Exploring **IoT & Embedded Systems** for real-world problem solving  
 - 💡 Enjoy learning new tech and turning ideas into practical solutions  
-- 🌱 Trying to bridge the gap between **electronics** and **software**  
+- 🌱 Trying to bridge the gap between **Electronics** and **Software**  
 - 📬 Email: **saimiruthul@gmail.com**  
 <br clear="right"/>
 
