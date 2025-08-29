@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Core%20Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <h3 align="left">🚀 Next to Learn:</h3>
