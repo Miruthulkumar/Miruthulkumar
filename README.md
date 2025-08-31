@@ -31,7 +31,12 @@
 <p>
   <img src="https://img.shields.io/badge/Core%20Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
 </p>
 
 <h3 align="left">🚀 Next to Learn:</h3>
@@ -39,7 +44,6 @@
   <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
   <img src="https://img.shields.io/badge/Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🛠 Tools
