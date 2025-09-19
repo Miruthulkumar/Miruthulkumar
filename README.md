@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-9370DB?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-4DB33D?style=for-the-badge&logo=mern&logoColor=white"/>
 </p>
 
 ### 📚 Currently Learning
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/Core%20Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
