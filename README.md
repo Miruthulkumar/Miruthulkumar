@@ -39,14 +39,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-</p>
+<!-- </p>
 
 <h3 align="left">🚀 Next to Learn:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox"/>
   <img src="https://img.shields.io/badge/Grid-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+</p> -->
 
 ### 🛠 Tools
 <p>
